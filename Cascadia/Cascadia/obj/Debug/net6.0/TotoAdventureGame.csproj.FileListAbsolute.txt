@@ -1,0 +1,15 @@
+C:\Users\MSI\source\repos\TotoAdventureGame\TotoAdventureGame\bin\Debug\net6.0\TotoAdventureGame.exe
+C:\Users\MSI\source\repos\TotoAdventureGame\TotoAdventureGame\bin\Debug\net6.0\TotoAdventureGame.deps.json
+C:\Users\MSI\source\repos\TotoAdventureGame\TotoAdventureGame\bin\Debug\net6.0\TotoAdventureGame.runtimeconfig.json
+C:\Users\MSI\source\repos\TotoAdventureGame\TotoAdventureGame\bin\Debug\net6.0\TotoAdventureGame.dll
+C:\Users\MSI\source\repos\TotoAdventureGame\TotoAdventureGame\bin\Debug\net6.0\TotoAdventureGame.pdb
+C:\Users\MSI\source\repos\TotoAdventureGame\TotoAdventureGame\obj\Debug\net6.0\TotoAdventureGame.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\TotoAdventureGame\TotoAdventureGame\obj\Debug\net6.0\TotoAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\TotoAdventureGame\TotoAdventureGame\obj\Debug\net6.0\TotoAdventureGame.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\TotoAdventureGame\TotoAdventureGame\obj\Debug\net6.0\TotoAdventureGame.AssemblyInfo.cs
+C:\Users\MSI\source\repos\TotoAdventureGame\TotoAdventureGame\obj\Debug\net6.0\TotoAdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\TotoAdventureGame\TotoAdventureGame\obj\Debug\net6.0\TotoAdventureGame.dll
+C:\Users\MSI\source\repos\TotoAdventureGame\TotoAdventureGame\obj\Debug\net6.0\refint\TotoAdventureGame.dll
+C:\Users\MSI\source\repos\TotoAdventureGame\TotoAdventureGame\obj\Debug\net6.0\TotoAdventureGame.pdb
+C:\Users\MSI\source\repos\TotoAdventureGame\TotoAdventureGame\obj\Debug\net6.0\TotoAdventureGame.genruntimeconfig.cache
+C:\Users\MSI\source\repos\TotoAdventureGame\TotoAdventureGame\obj\Debug\net6.0\ref\TotoAdventureGame.dll
